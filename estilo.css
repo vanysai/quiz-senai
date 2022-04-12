@@ -18,7 +18,6 @@ header{
 
 .lufa{
     padding:800px lightgreen ;
-    border: solid 2px darkviolet;
     margin: 10px;
     border-radius: 10px;
     background-color:rgb(236, 236, 126);
@@ -30,10 +29,9 @@ header{
 
 .container{
     padding: 80px lightgreen;
-    border: solid 2px darkviolet;
     margin: 10px;
     border-radius: 10px;
-    background-color: rgb(223, 51, 51);
+    background-color: rgb(186, 230, 231);
     align-items: center;
     justify-content: center;
 
@@ -42,7 +40,6 @@ header{
 
 .draco{
     padding: 80px lightgreen;
-    border: solid 2px darkviolet;
     align-items: center;
     justify-content: center;
     margin: 10px;
@@ -56,7 +53,6 @@ header{
 
 .pomo{
     padding: 80px lightgreen;
-    border: solid 2px darkviolet;
     align-items: center;
     justify-content: center;
     margin: 10px;
