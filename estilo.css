@@ -1,5 +1,5 @@
 header{
-    padding: 60px lightgreen;
+    padding: 80px lightgreen;
     border: royalblue solid;
     border-radius: 10px;
     margin: 20px;
@@ -9,19 +9,19 @@ header{
 
 .nome{
     padding: 80px lightgreen;
-    border: solid 2px black;
     margin: 10px;
     border-radius: 10px;
-    background-color: rgb(255, 255, 118);
+    background-color: lightyellow;
     text-align: center;
 }
 
 .lufa{
-    padding:800px lightgreen ;
+    padding:80px lightgreen ;
     margin: 10px;
     border-radius: 10px;
-    background-color:rgb(236, 236, 126);
+    background-color: rgb(186, 230, 231);
     align-items: center;
+    text-align: center;
     justify-content: center;
 
 
@@ -31,7 +31,8 @@ header{
     padding: 80px lightgreen;
     margin: 10px;
     border-radius: 10px;
-    background-color: rgb(186, 230, 231);
+    background-color:lightgreen;
+    text-align: center;
     align-items: center;
     justify-content: center;
 
@@ -44,7 +45,8 @@ header{
     justify-content: center;
     margin: 10px;
     border-radius: 10px;   
-    background-color: lightgreen;
+    background-color: rgb(206, 230, 231);
+    text-align: center;
     align-items: center;
     justify-content: center;
 
@@ -56,10 +58,70 @@ header{
     align-items: center;
     justify-content: center;
     margin: 10px;
+    text-align: center;
     border-radius: 10px;   
-    background-color: lightgreen;           
+    background-color: rgb(186, 230, 231);           
 }
 
+.hermione{
+    padding: 80px lightgreen;
+    align-items: center;
+    justify-content: center;
+    margin: 10px;
+    text-align: center;
+    border-radius: 10px;   
+    background-color: lightgreen; 
+}
+
+.rony{
+    padding: 80px lightgreen;
+    align-items: center;
+    justify-content: center;
+    margin: 10px;
+    text-align: center;
+    border-radius: 10px;   
+    background-color: rgb(186, 230, 231); 
+}
+
+.harry{
+    padding: 80px lightgreen;
+    align-items: center;
+    justify-content: center;
+    margin: 10px;
+    text-align: center;
+    border-radius: 10px;   
+    background-color: rgb(125, 238, 125);
+}
+
+.voldemort {
+    padding: 80px lightgreen;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin: 10px;
+    border-radius: 10px;   
+    background-color: rgb(186, 230, 231);
+}
+
+.fenix{
+    padding: 80px lightgreen;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin: 10px;
+    border-radius: 10px;   
+    background-color: rgb(125, 238, 125);
+}
+
+.cobra{
+    padding: 80px lightgreen;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin: 10px;
+    border-radius: 10px;   
+    background-color: rgb(186, 230, 231);
+}
 select{
 border-radius: 10px;
 border: deepskyblue solid 2px;
@@ -68,3 +130,4 @@ margin: 10px;
 align-items: center;
 justify-content: center;
 }
+
